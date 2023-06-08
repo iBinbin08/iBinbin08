@@ -21,7 +21,6 @@
 <a href="https://linkedin.com/in/engr-emeroe-neñeria-175103171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="engr-emeroe-neñeria-175103171" height="30" width="40" /></a>
 <a href="https://fb.com/e.neneria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="e.neneria" height="30" width="40" /></a>
 <a href="https://instagram.com/ismolgiant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ismolgiant" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/c/emeroe neñeria](https://www.youtube.com/channel/UCMsow822aKrU5EQphi6J7dQ)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="emeroe neñeria" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
