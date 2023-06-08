@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Fullstack Web Development**
 
-- 🎮🕹️ I am a gamer and favorite games to play are: **Fifa, NBA2K, COD: Warzone, MIR4, State of Decay**
+- 🎮🕹️ I am a gamer and favorite games to play are: **Fifa, NBA2K, COD: Warzone, MIR4, and State of Decay**
 
 - 📫 Reach me at **e.neneria@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/u/1/d/1sHR6XoG8aoffoSKHrO8e0qdERCw0GiON/view?usp=share_link](https://drive.google.com/file/u/1/d/1sHR6XoG8aoffoSKHrO8e0qdERCw0GiON/view?usp=share_link)
+- 📄 Know about my experiences at [https://drive.google.com/file/u/1/d/1sHR6XoG8aoffoSKHrO8e0qdERCw0GiON/view?usp=share_link](https://drive.google.com/file/u/1/d/1sHR6XoG8aoffoSKHrO8e0qdERCw0GiON/view?usp=share_link)
 
 - ⚡ Fun fact: **An introvert. I am small in stature but big in ideas, dreams and potential.**
 
