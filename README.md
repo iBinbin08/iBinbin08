@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Engr. Emeroe</h1>
-<h3 align="center">You can call me "Ven", A passionate Licensed Electronics Engineer from the Philippines and currently venturing through the world of Full Stack Development</h3>
+<h3 align="center">You can call me "Ven", a passionate Licensed Electronics Engineer from the Philippines and currently venturing through the world of Full Stack Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibinbin08&label=Profile%20views&color=0e75b6&style=flat" alt="ibinbin08" /> </p>
 
